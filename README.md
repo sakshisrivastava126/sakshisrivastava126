@@ -9,7 +9,8 @@
 
 ###
 
-<div align="left">
+<div align="centre">
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -34,9 +35,6 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/31cqgouwy7y3ynfhqxrrrk7ivad4">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31cqgouwy7y3ynfhqxrrrk7ivad4&count=10" alt="Spotify recently played"  />
-  </a>
+  <h3>🎵 Recently Played</h3>
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=315myef5v4dske4p2l6ylyevh5nq&width=1000&count=10" alt="Spotify Recently Played" />
 </div>
-
-###
